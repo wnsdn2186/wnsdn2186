@@ -1,4 +1,6 @@
 ### 👋 Hi there 👋
+**I am JUNU, majoring in computer science at Kyungpook National University.\
+I am aiming to be an Android developer.**
 
 ### ✔**Tech Stack**
 
