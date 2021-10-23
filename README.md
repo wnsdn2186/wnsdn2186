@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### - Tech Stack
+### - **Tech Stack**
 
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -13,7 +13,7 @@
 </div>
 
 
-### - IDE
+### - **IDE**
 <div align="center">
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
@@ -23,25 +23,23 @@
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 </div>
 
-### - Cooperation Tool
+### - **Cooperation Tool**
 <div align="center">
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
  </div>
 
-### - Stats
+### - **Stats**
 <div align=center>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdn2186&show_icons=true)
 </div>
 
 
-### - Used Language
+### - **Used Language**
 <div align=center>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdn2186&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
  
-<div align="center">
 <a href="https://github.com/wnsdn2186"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsdn2186&count_bg=%235094F0&title_bg=%235094F0&icon=android.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> 
  ![followers](https://img.shields.io/github/followers/wnsdn2186?style=social)
  </div>
