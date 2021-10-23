@@ -8,19 +8,19 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 
 
 ### - IDE
 <div align="center">
- <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=aws&logoColor=white">
- <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=aws&logoColor=white">
- <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=aws&logoColor=white">
- <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=aws&logoColor=white">
+ <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=aws&logoColor=white">
+ <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=aws&logoColor=white">
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=aws&logoColor=white">
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 
 ### - Stats
