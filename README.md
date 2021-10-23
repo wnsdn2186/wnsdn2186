@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+### - Tech Stack
+
+<div align="center">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=aws&logoColor=white">
+</div>
+
+
+### - IDE
+<div align="center">
+ <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=aws&logoColor=white">
+ <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=aws&logoColor=white">
+ <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=aws&logoColor=white">
+ <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=aws&logoColor=white">
+</div>
+
 ### - Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdn2186&show_icons=true)
 
