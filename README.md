@@ -43,5 +43,6 @@
  
 <div align="center">
 <a href="https://github.com/wnsdn2186"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsdn2186&count_bg=%235094F0&title_bg=%235094F0&icon=android.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> 
+ ![followers](https://img.shields.io/github/followers/wnsdn2186?style=social)
  </div>
  
