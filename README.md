@@ -12,8 +12,8 @@ I am aiming to be an Android developer.**
 </div>
 <div align="left">
  <img src="https://img.shields.io/badge/mysql-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
- <img src="https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/css3-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
