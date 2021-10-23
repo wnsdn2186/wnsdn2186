@@ -25,9 +25,8 @@
 </div>
 
 ### - Stats
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdn2186&show_icons=true)
- <div>
+
 
 ### - Used Language 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdn2186&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
