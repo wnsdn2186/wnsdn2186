@@ -8,7 +8,7 @@ I am aiming to be an Android developer.**
 <img src="https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </div>
 <div align="left">
  <img src="https://img.shields.io/badge/mysql-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
