@@ -36,7 +36,7 @@ I am aiming to be an Android developer.**
 
 ### ✔**Stats**
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;hide=contribs,prs" alt="Anurag&#39;s GitHub stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=wnsdn2186&amp;hide=contribs,prs" alt="Anurag&#39;s GitHub stats"></p>
 
 
 
